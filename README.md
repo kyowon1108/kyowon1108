@@ -30,8 +30,8 @@
 - 🤖 머신러닝을 활용한 정보 신뢰성 판단 서비스
 - ⚡ 백엔드 아키텍처
 
-### 📅 [planner-project](https://github.com/kyowon1108/planner-project)
-[![planner-project](https://img.shields.io/badge/planner--project-%234ECDC4?style=for-the-badge&logo=calendar&logoColor=white)](https://github.com/kyowon1108/planner-project)
+### 📅 [planner-project](https://github.com/kyowon1108/planner_project)
+[![planner-project](https://img.shields.io/badge/planner--project-%234ECDC4?style=for-the-badge&logo=calendar&logoColor=white)](https://github.com/kyowon1108/planner_project)
 
 **스마트 일정/할일 관리 툴**
 - 📊 데이터베이스 최적화로 빠른 성능
