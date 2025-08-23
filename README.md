@@ -38,6 +38,12 @@
 - 🧠 AI 기반 일정 추천 시스템
 - 📱 직관적인 사용자 인터페이스
 
+### 📊 [regional-employment-korea](https://github.com/kyowon1108/regional-employment-korea)
+[![regional-employment-korea](https://img.shields.io/badge/regional--employment--korea-%23FF6B6B?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/kyowon1108/regional-employment-korea)
+
+**이민정책연구 논문공모전 제출용 데이터분석**
+- 📝 csv파일 분석 및 전처리
+
 </div>
 
 ---
