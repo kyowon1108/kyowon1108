@@ -19,6 +19,13 @@
 
 ---
 
+## 🏅 Achievements
+- 🎓 숭실대학교 2025 프로그래밍 중급과정 수료  
+- 📢 한국정책학회 2025 하계학술토론 발표
+- 🐋 2025년 코디세이 AI 올인원 과정 참여 (진행중)
+- 
+---
+
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -27,6 +34,7 @@
 [![info-guard](https://img.shields.io/badge/info--guard-%23FF6B6B?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/kyowon1108/info-guard)
 
 **AI 기반 유튜브 신뢰성 판단 서비스**
+- 💡 한국정책학회 2025 하계학술토론 참여 출품작
 - 🤖 머신러닝을 활용한 정보 신뢰성 판단 서비스
 - ⚡ 백엔드 아키텍처
 
