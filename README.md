@@ -29,7 +29,7 @@
 - **PCCP Python3 Lv.2** (2025.11) - 알고리즘 및 코딩 테스트 역량 인증
 - **한국정책학회 2025 하계학술토론** 발표 - AI 기술의 사회적 적용 사례 연구
 - **숭실대학교 프로그래밍 중급과정** 수료 (2025)
-- **Codyssey AI All-in-One** 과정 수료 (2025.08 ~ 2025.12)
+- **Codyssey AI 올인원** 과정 진행중 (2025.08 ~ 2025.12)
 
 <br/>
 
@@ -86,23 +86,24 @@ class BackendDeveloper:
         return "Let's build something scalable! 🚀"
 ```
 
-<br/>
-
-## 📈 GitHub Stats
+## 📬 Let's Connect!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyowon1108&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyowon1108&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="160"/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyowon1108@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyowon1108)
+
+**"Always ready to collaborate on exciting projects! 💡"**
+
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="mailto:kyowon1108@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-kyowon1108@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kyowon1108&color=36BCF7&style=flat-square" alt="Profile Views" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=kyowon1108&color=brightgreen&style=flat-square)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
+
