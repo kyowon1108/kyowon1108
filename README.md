@@ -87,7 +87,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis,docker,aws,git,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis,docker,aws,git,linux,blender,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -221,7 +221,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis,docker,aws,git,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis,docker,aws,git,linux,blender,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
