@@ -24,6 +24,28 @@
 
 ---
 
+## 💭 Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🎵 Hobbies
+
+<div align="center">
+
+![Piano](https://img.shields.io/badge/🎹_Piano-Playing-bd93f9?style=for-the-badge)
+![Classical](https://img.shields.io/badge/🎻_Classical-Listening-ff79c6?style=for-the-badge)
+![Jazz](https://img.shields.io/badge/🎷_Jazz-Lover-50fa7b?style=for-the-badge)
+
+</div>
+
+---
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -141,6 +163,24 @@
 ![Role](https://img.shields.io/badge/💼_백엔드_개발자-확장_가능한_시스템_&_DB_최적화-ff79c6?style=for-the-badge)
 ![Current](https://img.shields.io/badge/🔭_현재-Codyssey_AI_올인원_(2025.08~2025.12)-50fa7b?style=for-the-badge)
 ![Exploring](https://img.shields.io/badge/🌱_탐구_중-3D_컴퓨터_비전_&_Gaussian_Splatting-8be9fd?style=for-the-badge)
+
+</div>
+
+### 💭 명언
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+### 🎵 취미
+
+<div align="center">
+
+![Piano](https://img.shields.io/badge/🎹_피아노-연주-bd93f9?style=for-the-badge)
+![Classical](https://img.shields.io/badge/🎻_클래식-감상-ff79c6?style=for-the-badge)
+![Jazz](https://img.shields.io/badge/🎷_재즈-애호가-50fa7b?style=for-the-badge)
 
 </div>
 
