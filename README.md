@@ -17,7 +17,6 @@
 
 ![University](https://img.shields.io/badge/🎓_Kwangwoon_University-Computer_Science-bd93f9?style=for-the-badge)
 ![Role](https://img.shields.io/badge/💼_Backend_Developer-Scalable_Systems_&_DB_Optimization-ff79c6?style=for-the-badge)
-
 ![Current](https://img.shields.io/badge/🔭_Currently-Codyssey_AI_Program_(2025.08~2025.12)-50fa7b?style=for-the-badge)
 ![Exploring](https://img.shields.io/badge/🌱_Exploring-3D_Computer_Vision_&_Gaussian_Splatting-8be9fd?style=for-the-badge)
 
@@ -139,10 +138,9 @@
 
 <div align="center">
 
-![University](https://img.shields.io/badge/🎓_광운대학교-컴퓨터공학과-bd93f9?style=for-the-badge)
+![University](https://img.shields.io/badge/🎓_광운대학교-정보융합학부_데이터사이언스_전공-bd93f9?style=for-the-badge)
 ![Role](https://img.shields.io/badge/💼_백엔드_개발자-확장_가능한_시스템_&_DB_최적화-ff79c6?style=for-the-badge)
-
-![Current](https://img.shields.io/badge/🔭_현재-Codyssey_AI_프로그램_(2025.08~2025.12)-50fa7b?style=for-the-badge)
+![Current](https://img.shields.io/badge/🔭_현재-Codyssey_AI_올인원_(2025.08~2025.12)-50fa7b?style=for-the-badge)
 ![Exploring](https://img.shields.io/badge/🌱_탐구_중-3D_컴퓨터_비전_&_Gaussian_Splatting-8be9fd?style=for-the-badge)
 
 </div>
@@ -154,7 +152,7 @@
 | | 성과 | 발행처 | 날짜 |
 |:---:|:---|:---|:---:|
 | <img src="images/AI_TOP_100_logo_Finalist_Badge.png" width="60"/> | **AI_TOP_100 Finalist** | 카카오임팩트 × 브라이언임팩트 | 2026.01 |
-| <img src="images/iitp_award_2025.jpeg" width="60"/> | **IITP 원장상** | 정보통신기획평가원 (코디세이 최우수) | 2025.12 |
+| <img src="images/iitp_award_2025.jpeg" width="60"/> | **IITP 원장상** | 정보통신기획평가원 (코디세이 텀프로젝트 최우수상) | 2025.12 |
 | <img src="images/pccp_lv2_certificate.png" width="60"/> | **PCCP Python3 Lv.2** | 프로그래머스 | 2025.11 |
 | | 한국정책학회 하계학술대회 | 발표 | 2025 |
 | | 숭실대 프로그래밍 중급과정 | 수료 | 2025 |
