@@ -15,13 +15,11 @@
 
 <div align="center">
 
-🎓 **Kwangwoon University** · Computer Science
+![University](https://img.shields.io/badge/🎓_Kwangwoon_University-Computer_Science-bd93f9?style=for-the-badge)
+![Role](https://img.shields.io/badge/💼_Backend_Developer-Scalable_Systems_&_DB_Optimization-ff79c6?style=for-the-badge)
 
-💼 **Backend Developer** · Scalable Systems & DB Optimization
-
-🔭 **Currently**: Codyssey AI Program (2025.08 ~ 2025.12)
-
-🌱 **Exploring**: 3D Computer Vision & Gaussian Splatting
+![Current](https://img.shields.io/badge/🔭_Currently-Codyssey_AI_Program_(2025.08~2025.12)-50fa7b?style=for-the-badge)
+![Exploring](https://img.shields.io/badge/🌱_Exploring-3D_Computer_Vision_&_Gaussian_Splatting-8be9fd?style=for-the-badge)
 
 </div>
 
@@ -29,11 +27,17 @@
 
 ## 🏆 Achievements
 
-- **2025 AI_TOP_100 Finalist** (2026.01)
-- **IITP Director's Award** - Best Term Project, Codyssey (2025.12)
-- **PCCP Python3 Lv.2** (2025.11)
-- Korean Policy Society Summer Conference - Presenter (2025)
-- Soongsil University Programming Course - Completed (2025)
+<div align="center">
+
+| | Achievement | Issuer | Date |
+|:---:|:---|:---|:---:|
+| <img src="images/AI_TOP_100_logo_Finalist_Badge.png" width="60"/> | **AI_TOP_100 Finalist** | Kakao Impact × Brian Impact | 2026.01 |
+| <img src="images/iitp_award_2025.jpeg" width="60"/> | **IITP Director's Award** | IITP (Codyssey Best Project) | 2025.12 |
+| <img src="images/pccp_lv2_certificate.png" width="60"/> | **PCCP Python3 Lv.2** | Programmers | 2025.11 |
+| | Korean Policy Society Conference | Presenter | 2025 |
+| | Soongsil Univ. Programming Course | Completed | 2025 |
+
+</div>
 
 ---
 
@@ -118,8 +122,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kyowon1108@gmail.com-ff79c6?style=flat-square&logo=gmail&logoColor=white)](mailto:kyowon1108@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kyowon1108@gmail.com-bd93f9?style=flat-square&logo=gmail&logoColor=white)](mailto:kyowon1108@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kyowon1108-bd93f9?style=flat-square&logo=github&logoColor=white)](https://github.com/kyowon1108)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B5%90%EC%9B%90-%EC%9D%B4-513b76382/)
 
 </div>
 
@@ -134,23 +139,27 @@
 
 <div align="center">
 
-🎓 **광운대학교** · 컴퓨터공학과
+![University](https://img.shields.io/badge/🎓_광운대학교-컴퓨터공학과-bd93f9?style=for-the-badge)
+![Role](https://img.shields.io/badge/💼_백엔드_개발자-확장_가능한_시스템_&_DB_최적화-ff79c6?style=for-the-badge)
 
-💼 **백엔드 개발자** · 확장 가능한 시스템 & DB 최적화
-
-🔭 **현재**: Codyssey AI 프로그램 (2025.08 ~ 2025.12)
-
-🌱 **탐구 중**: 3D 컴퓨터 비전 & Gaussian Splatting
+![Current](https://img.shields.io/badge/🔭_현재-Codyssey_AI_프로그램_(2025.08~2025.12)-50fa7b?style=for-the-badge)
+![Exploring](https://img.shields.io/badge/🌱_탐구_중-3D_컴퓨터_비전_&_Gaussian_Splatting-8be9fd?style=for-the-badge)
 
 </div>
 
 ### 🏆 주요 성과
 
-- **2025 AI_TOP_100 Finalist** (2026.01)
-- **IITP 원장상** - 코디세이 텀 프로젝트 최우수상 (2025.12)
-- **PCCP Python3 Lv.2** (2025.11)
-- 한국정책학회 하계학술대회 발표 (2025)
-- 숭실대학교 프로그래밍 중급과정 수료 (2025)
+<div align="center">
+
+| | 성과 | 발행처 | 날짜 |
+|:---:|:---|:---|:---:|
+| <img src="images/AI_TOP_100_logo_Finalist_Badge.png" width="60"/> | **AI_TOP_100 Finalist** | 카카오임팩트 × 브라이언임팩트 | 2026.01 |
+| <img src="images/iitp_award_2025.jpeg" width="60"/> | **IITP 원장상** | 정보통신기획평가원 (코디세이 최우수) | 2025.12 |
+| <img src="images/pccp_lv2_certificate.png" width="60"/> | **PCCP Python3 Lv.2** | 프로그래머스 | 2025.11 |
+| | 한국정책학회 하계학술대회 | 발표 | 2025 |
+| | 숭실대 프로그래밍 중급과정 | 수료 | 2025 |
+
+</div>
 
 ### 📂 프로젝트
 
@@ -201,8 +210,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kyowon1108@gmail.com-ff79c6?style=flat-square&logo=gmail&logoColor=white)](mailto:kyowon1108@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kyowon1108@gmail.com-bd93f9?style=flat-square&logo=gmail&logoColor=white)](mailto:kyowon1108@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kyowon1108-bd93f9?style=flat-square&logo=github&logoColor=white)](https://github.com/kyowon1108)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B5%90%EC%9B%90-%EC%9D%B4-513b76382/)
 
 </div>
 
